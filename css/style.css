@@ -3,9 +3,10 @@
 }
 
 .color {
-  color: rgb(32, 18, 82);
+  color: rgb(32, 18, 82) !important;
   font-weight: bold;
 }
+
 .title {
   font-size: 1000;
   color: rgb(32, 18, 82);
@@ -13,4 +14,11 @@
 .letters {
   font-size: 10%;
   color: rgb(32, 18, 82);
+}
+.white {
+  color: rgb(251, 250, 255);
+}
+
+.bg {
+  background-color: rgb(32, 18, 82);
 }
