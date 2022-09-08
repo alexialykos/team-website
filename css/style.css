@@ -22,3 +22,7 @@
 .bg {
   background-color: rgb(32, 18, 82);
 }
+
+.big {
+  font-size: larger;
+}
